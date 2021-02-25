@@ -1,2 +1,2 @@
 # Java
- Exercícios em java
+ Exercises using java language for matter PW2 ETEC-2021
